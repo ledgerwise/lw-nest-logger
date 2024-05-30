@@ -1,5 +1,5 @@
 {
-  "name": "lw-nest-logger",
+  "name": "@ledgerwise/lw-nest-logger",
   "version": "1.0.0",
   "description": "NestJS Logging Service",
   "author": "Rahul Gautam <rahul@humility.dev>",
